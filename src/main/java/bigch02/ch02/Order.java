@@ -1,4 +1,4 @@
-package ch02;
+package bigch02.ch02;
 
 public class Order {
     int orderId;

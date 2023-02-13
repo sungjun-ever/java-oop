@@ -1,4 +1,4 @@
-package ch04;
+package bigch02.ch04;
 
 public class Student {
     public int studentID;
